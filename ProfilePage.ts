@@ -1,5 +1,5 @@
 class ProfilePage {
     constructor() {
-        console.log("ProfilePage");
+        console.log("ProfilePage1");
     }
 }
