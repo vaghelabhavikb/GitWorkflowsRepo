@@ -1,3 +1,3 @@
-let waitTime = 5
-let shortWaitTime = 1
-let excelExt = '.xlsx'
+let waitTime = 10
+let shortWaitTime = 5
+let jsonExt = '.json'
