@@ -1,3 +1,3 @@
-let waitTime = 45
-let shortWaitTime = 9
+let waitTime = 25
+let shortWaitTime = 7
 let jsonExt = '.json'
