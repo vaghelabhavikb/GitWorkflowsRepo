@@ -1,6 +1,7 @@
 class LandingPage {
+
+    private a = 1
     constructor() {
-        console.log("Landing Page")
-        console.log("New Log")
+        console.log("Landing Page1")
     }
 }
