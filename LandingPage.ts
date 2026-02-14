@@ -1,5 +1,5 @@
 class LandingPage {
     constructor() {
-        console.log("1Landing Page")
+       console.log("Landing Page1")
     }
 }
